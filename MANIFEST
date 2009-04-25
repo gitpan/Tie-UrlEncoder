@@ -3,3 +3,4 @@ MANIFEST
 README
 test.pl
 UrlEncoder.pm
+META.yml                                 Module meta-data (added by MakeMaker)
